@@ -1,15 +1,12 @@
-<h1 align="center">🧘‍♀️App de Meditação com Vídeo de Fundo🧘‍♀️</h1>
-<p align="center">Este é um aplicativo de meditação simples que utiliza HTML, CSS e JavaScript para tocar um vídeo de fundo relaxante enquanto conta o tempo da meditação. Ele inclui botões de play/pause e reiniciar, permitindo que você controle a meditação de acordo com suas necessidades.</p>
+<h1 align="center">📈Dataset TSLA em Python📈</h1>
+<p align="center">Este é um programa em python que exibe o dataset das ações da Tesla em 3 gráficos separados, Barras, Linhas e Dispersão.</p>
 
-🛠️ Tecnologias Utilizadas
-Este aplicativo foi construído utilizando HTML, CSS e JavaScript. Ele não requer nenhuma biblioteca ou framework adicional.
+🛠️ <b>Tecnologias Utilizadas</b></br>
+Python com as bibliotecas Pandas e Matplolib.
 
-🤝 Contribuindo
-Sinta-se à vontade para contribuir com este projeto, criando novos recursos ou corrigindo alguns problemas que ainda não resolvi, como por exemplo o contador iniciar com dois zeros após o <em>":"</em>. Basta fazer um fork do repositório, fazer as alterações desejadas e enviar uma pull request para análise.
-
-<a href="https://youtu.be/oMBXdZzYqEk">Aula</a></br>
+🤝 <b>Contribuindo</b></br>
+Sinta-se à vontade para contribuir com este projeto, criando novos recursos ou modificando seu layout.
 
 <b>Linguagens e Ferramentas utilizadas:</b></br>
-<a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"></a>
-<a href="https://www.w3schools.com/css"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40"></a>
-<a href="https://www.w3.org/html"><img src="https://cdn-icons-png.flaticon.com/512/3291/3291670.png" width="40"></a>
+<a href="https://www.python.org"></br>
+<img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" width="40"></a>
